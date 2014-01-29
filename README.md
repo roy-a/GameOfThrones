@@ -1,0 +1,4 @@
+GameOfThrones
+=============
+
+GameOfThrones TVD plugin
